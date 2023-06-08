@@ -26,6 +26,18 @@ Use the ping command, and practice using the break keyboard sequence
 
 Create and execute a JavaScript files using Node.js and Visual Studio Code (VSCode) terminal and Run and Debug
 
+To complete thsi project we completed the following parts:
+
+Part 1. Completed Lab 1
+
+Part 2. Command line - folders
+
+Part 3. Command line - ping
+
+Part 4. JavaScript using Node.js and Visual Studio Code - day of the week
+
+Part 5. JavaScript using Node.js and Visual Studio Code - random
+
 The following were all the project deliverables(the code files are included in Github as files):
 
 lab-01.zip 
